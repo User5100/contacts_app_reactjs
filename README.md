@@ -1,8 +1,9 @@
-An responsive web application built with React, Webpack 2.0, Preact and Bootstrap 4.0.
+An responsive web application built with React, Webpack 2.0, Preact and Bootstrap 4.0 and the brand new React Router v4!
+
+![Alt text](landing.gif?raw=true "Landing")
 
 $npm start - To run the application in webpack developer server mode.
 
-![Alt text](landing.gif?raw=true "Landing")
 
 Add a contact
 
