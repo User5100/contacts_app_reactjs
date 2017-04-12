@@ -1,34 +1,30 @@
-Responsive web app built with 
+**Responsive web app built with ReactJS**
 
-ReactJS
+* ReactJS
+* Webpack 2.0
+* Preact
+* Bootstrap 4.0
+* React Router v4!
 
-Webpack 2.0
-
-Preact
-
-Bootstrap 4.0
-
-React Router v4!
+**Landing Page**
 
 ![Alt text](landing.gif?raw=true "Landing")
 
-$npm start - To run the application in webpack developer server mode.
 
-
-Add a contact
+**Add a contact**
 
 ![Alt text](add_contact.gif?raw=true "AddContact")
 
-Update an existing contact
+**Update an existing contact**
 
 ![Alt text](update_contact.gif?raw=true "UpdateContact")
 
-Delete a contact
+**Delete a contact**
 
 ![Alt text](delete_contact.gif?raw=true "DeleteContact")
 
 
-**** Issues/Improvements ****
+** Issues/Further Improvements **
 
 1. Currently server side rendering is not fully implemented. Integrate isomorphic-style-loader into Webpack configuration to ensure CSS rendered from the server when the app starts.
 2. CSS - the growl displaying confirmation messages to the user should be adjusted for width and horizontally centered.
