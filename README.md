@@ -24,9 +24,11 @@
 ![Alt text](delete_contact.gif?raw=true "DeleteContact")
 
 
-** Issues/Further Improvements **
+**Issues/Further Improvements**
 
-1. Currently server side rendering is not fully implemented. Integrate isomorphic-style-loader into Webpack configuration to ensure CSS rendered from the server when the app starts.
-2. CSS - the growl displaying confirmation messages to the user should be adjusted for width and horizontally centered.
-3. CSS - Strip out redundant CSS code.
-3. Babel - Currently the entire es2015 preset included in the production build which is inefficient. We can cut the bundle size shipped to the client even further by identifying and declaring the specific plugins needed instead.
+* Currently server side rendering is not fully implemented. Integrate isomorphic-style-loader into Webpack configuration to ensure CSS rendered from the server when the app starts.
+* CSS - the growl displaying confirmation messages to the user should be adjusted for width and horizontally centered.
+* CSS - Strip out redundant CSS code.
+* Babel - Currently the entire es2015 preset included in the production build which is inefficient. We can cut the bundle size shipped to the client even further by identifying and declaring the specific plugins needed instead.
+
+ENDS
