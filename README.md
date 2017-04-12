@@ -6,11 +6,6 @@
 * Bootstrap 4.0
 * React Router v4!
 
-**Landing Page**
-
-![Alt text](landing.gif?raw=true "Landing")
-
-
 **Add a contact**
 
 ![Alt text](add_contact.gif?raw=true "AddContact")
@@ -22,6 +17,10 @@
 **Delete a contact**
 
 ![Alt text](delete_contact.gif?raw=true "DeleteContact")
+
+**Landing Page**
+
+![Alt text](landing.gif?raw=true "Landing")
 
 
 **Issues/Further Improvements**
