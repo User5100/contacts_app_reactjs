@@ -1,9 +1,13 @@
 Responsive web app built with 
 
 ReactJS
+
 Webpack 2.0
+
 Preact
+
 Bootstrap 4.0
+
 React Router v4!
 
 ![Alt text](landing.gif?raw=true "Landing")
