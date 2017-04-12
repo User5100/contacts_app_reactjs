@@ -5,12 +5,15 @@ $npm start - To run the application in webpack developer server mode.
 ![Alt text](landing.gif?raw=true "Landing")
 
 Add a contact
+
 ![Alt text](add_contact.gif?raw=true "AddContact")
 
 Update an existing contact
+
 ![Alt text](update_contact.gif?raw=true "UpdateContact")
 
 Delete a contact
+
 ![Alt text](delete_contact.gif?raw=true "DeleteContact")
 
 
