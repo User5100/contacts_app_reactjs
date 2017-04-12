@@ -1,4 +1,4 @@
-**Responsive web app built with ReactJS**
+**Responsive web app built with ReactJS that helps users organise their list of contacts**
 
 * ReactJS
 * Webpack 2.0
